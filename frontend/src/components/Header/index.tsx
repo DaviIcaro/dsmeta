@@ -11,6 +11,11 @@ function Header() {
                 <p>
                     Desenvolvido por
                     <a href="https://www.instagram.com/devsuperior.ig">@devsuperior.ig</a>
+                     
+                </p>
+                <p>
+                    E pelo aluno
+                    <a href = "https://www.instagram.com/davi_icaro.py/">@davi_icaro.py</a>
                 </p>
             </div>
         </header>
