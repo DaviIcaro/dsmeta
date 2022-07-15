@@ -5,9 +5,9 @@ Através da implementação do backend & frontend o Projeto tem o objetivo de ge
 - Filtrar informações através das datas;
 - Mostrar quem foi o vendedor de destaque do mês, informando tanto o valor arrecardado, quanto o total de vendas realizadas;
 - organização de informações através da filtração de data: ano, mês, dia;
-- Envio de SMS com as informações;
+- Envio de SMS com as informações.
 
-# Linguagens utilziadas:
+# Linguagens utiliziadas:
 
 HTML, CSS, JAVASCRIPT, TYPESCRIPT - PARA FRONTEND;
 
