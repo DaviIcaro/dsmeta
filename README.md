@@ -16,6 +16,6 @@ Java, Nodejs, SpringBoot + JPA + SQL - PARA BACKEND.
 
 # Ferramentas:
 
-GIT;
-Postman;
-Heroku CLI.
+- GIT;
+- Postman;
+- Heroku CLI.
