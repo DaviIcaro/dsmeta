@@ -1,4 +1,4 @@
-# dsmeta
+# dsmeta - full stack project
 
 Através da implementação do backend & frontend o Projeto tem o objetivo de gerenciar vendas, com as seguintes funcionalidades:
 
